@@ -2,7 +2,7 @@
 
 This repository contains the materials for **DARE: An Explainable AI-Visualization Framework for Ill-Defined Decision Making**.
 
-The repository is provided for the reproducibility of the DARE framework and **Figure 1** of the official paper published at **IEEE TVCG in 2026**.
+The repository is provided for the reproducibility of the DARE framework and **Figure 1** of the official paper published at **IEEE TVCG in 2026**. Note that this is a theoretical framework, so there is no code to be shared with this submission.
 
 ## Repository Contents
 
@@ -11,6 +11,7 @@ The repository is provided for the reproducibility of the DARE framework and **F
 * `DARE-FRAMEWORK_v3.pdf` – framework version 3
 * `DARE-FRAMEWORK_v4.pdf` – framework version 4
 * `DARE-FRAMEWORK_v5.pdf` – framework version 5 (final version)
+* `DARE-REPRESENTATIVE-IMAGE.png` – representative image provided for reproducibility by the GRSI Replicability Stamp
 * `DARE-LITERATURE.bib` – BibTeX file for the literature review
 * `LICENSE` – repository license
 
@@ -18,7 +19,7 @@ The repository is provided for the reproducibility of the DARE framework and **F
 
 DARE is a theoretical explainable AI-visualization framework for supporting ill-defined decision-making processes.
 
-This repository is intended as a minimal public package for reproducing the framework and Figure 1 of the official IEEE TVCG 2026 paper. It includes the framework versions and the bibliography used for the literature review.
+This repository is intended as a minimal public package for reproducing the framework and Figure 1 of the official IEEE TVCG 2026 paper. It includes the framework versions, the representative image provided for reproducibility by the GRSI Replicability Stamp, and the bibliography used for the literature review.
 
 ## Citation
 
